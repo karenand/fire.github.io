@@ -17,6 +17,10 @@ go.work.sum
 # env file
 .env
 
+# Observer library — synced from private github.com/karenand/js-observers
+observers/ObserverClass.js
+observers/binder.js
+
 # Editor/IDE
 .idea/
 .vscode/
