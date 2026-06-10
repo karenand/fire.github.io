@@ -18,10 +18,12 @@ go.work.sum
 .env
 
 # Observer library — synced from private github.com/karenand/js-observers
-observers/
+observers/*
+!observers/.gitkeep
 
 # Tax code library — synced from private github.com/karenand/tax-code
-tax-code/
+tax-code/*
+!tax-code/.gitkeep
 
 # Editor/IDE
 .idea/
